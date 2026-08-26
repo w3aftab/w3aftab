@@ -4,7 +4,7 @@
 
 I build thoughtful web experiences from the database to the browser, with a focus on clean REST APIs, useful CRUD workflows, responsive interfaces, and deployment-ready project structure.
 
-- Working mainly with **React, Node.js, Express, MongoDB, and Mongoose**
+- Working mainly with **React**, **Node.js**, **Express**, **MongoDB**, and **Mongoose**
 - Exploring better application architecture, API design, and frontend experiences
 - Enjoying the details: loading states, validation, filtering, sorting, and clear feedback
 - Based in the JavaScript ecosystem and always learning by building
